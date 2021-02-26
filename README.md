@@ -1,1 +1,3 @@
 # GameNews
+
+GameNews Web
