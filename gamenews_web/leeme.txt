@@ -1,0 +1,21 @@
+REQUISITOS:
+
+- Tener instalado XAMPP
+- Tener instalado un navegador web cualquiera (Google Chrome, Edge...)
+
+
+Para la instalación de la página web :
+
+1. Arrastrar todo el contenido de esta carpeta dentro de htdocs de XAMPP.
+2. Iniciar el servidor Apache y Mysql.
+3. Acceder al modo administrado de la base de datos Mysql (PHPMyAdmin).
+4. Crear una nueva base de datos con el nombre "register".
+5. En la barra de PHPMyAdmin hacer clic en "Importar".
+6. Seleccionar el archivo que se encuentra en la carpeta bd llamado "register.sql".
+7. Hacer clic en "Continuar y crear".
+8. Para acceder a la página web, acceder a tu navegador y en la barra de direcciones escribe "localhost".
+9. A disfrutar de GameNews!
+
+
+
+
